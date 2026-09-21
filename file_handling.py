@@ -32,12 +32,13 @@ client1 = WordPress_Customers("Rao Muhammad Imran", "Lahore", "Website Developme
 client2 = WordPress_Customers("Ali Raza", "Karachi", "Mobile App Development", "Go Daddy")
 client3 = WordPress_Customers("Ayesha Khan", "Faisalabad", "Software Development", "Name Cheap")
 client4 = Customer("Zainab Malik", "Islamabad", "Digital Marketing")
+client5 = Customer("Zayn Mehar", "Peshawar", "Git Setup")
 
 
-all_clients = [client1, client2, client3, client4]
+all_clients = [client1, client2, client3, client4, client5]
 
 for clients in all_clients:
-    if isinstance(clients, WordPress_Customers):
+    if isinstance(clients, Customer):
         clients.show_us()
 #print(isinstance(client1, WordPress_Customers))   # True
 #print(isinstance(client4, WordPress_Customers))   # False
