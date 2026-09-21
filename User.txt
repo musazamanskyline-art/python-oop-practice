@@ -1,0 +1,15 @@
+Rao Musa Zaman
+Usman Nadeem
+Sherryar Shan
+Saud Shafaqat
+Hamza Qasir
+Name of Friend: Sherryar shan & Age of Friend: 25
+Name of Friend: Hamza Qasir & Age of Friend: 25
+Name of Friend: Usman Nadeem & Age of Friend: 26
+Name of Friend: Saud Shafaqat & Age of Friend: 26
+Name of Friend: Salman Tali & Age of Friend: 24
+Name of Friend: Sherryar & Its age is: 26
+Name of Friend: Usman & Its age is: 26
+Name of Friend: Saud & Its age is: 26
+Name of Friend: Hamza & Its age is: 25
+Name of Friend: Salu & Its age is: 25

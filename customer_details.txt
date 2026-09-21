@@ -1,0 +1,20 @@
+Customer Name: Major Shaan Pervaiz
+Product Purchased: Gold Ring
+Product Weight: 3.75
+Product Price: Rs:165000.00
+
+Customer Name: Mrs Shamiem
+Product Purchased: Gold Necklace Set
+Product Weight: 24.89
+Product Price: Rs:989500.00
+
+Customer Name: Mr Fasil Bhatti
+Product Purchased: Gold Earrings
+Product Weight: 7.69
+Product Price: Rs:300000.00
+
+Customer Name: mehmood bhatti
+Product Purchased: Gold Chain
+Product Weight: 8.5
+Product Price: Rs:380000.00
+

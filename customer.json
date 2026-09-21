@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Javaid Ahmed",
+        "product_purchased": "Gold Churri Pair(total:6 pieces)",
+        "product_weight": 27.5,
+        "product_price": 1150000
+    },
+    {
+        "name": "Mahwish Yasmeen",
+        "product_purchased": "Gold Necklace Set",
+        "product_weight": 21.15,
+        "product_price": 819000
+    },
+    {
+        "name": "Suneel Jamsaid",
+        "product_purchased": "Gold Haar With  Earrings",
+        "product_weight": 17.89,
+        "product_price": 970000
+    },
+    {
+        "name": "Ahsan Dar",
+        "product_purchased": "Gold Ladies Ring",
+        "product_weight": 3.59,
+        "product_price": 110000
+    },
+    {
+        "name": "Javaid Ahmed",
+        "product_purchased": "Gold Churri Pair(total:6 pieces)",
+        "product_weight": 27.5,
+        "product_price": 1150000
+    },
+    {
+        "name": "Mahwish Yasmeen",
+        "product_purchased": "Gold Necklace Set",
+        "product_weight": 21.15,
+        "product_price": 819000
+    },
+    {
+        "name": "Suneel Jamsaid",
+        "product_purchased": "Gold Haar With  Earrings",
+        "product_weight": 17.89,
+        "product_price": 970000
+    },
+    {
+        "name": "Ahsan Dar",
+        "product_purchased": "Gold Ladies Ring",
+        "product_weight": 3.59,
+        "product_price": 110000
+    },
+    {
+        "name": "Murtaza Ahmad",
+        "product_purchased": "Gold Bridle Set",
+        "product_weight": 89.79,
+        "product_price": 390000.0
+    },
+    {
+        "name": "Anwar Khalid",
+        "product_purchased": "Ring ",
+        "product_weight": 5.67,
+        "product_price": 189000.0
+    },
+    {
+        "name": "Musa Zaman",
+        "product_purchased": "Chain",
+        "product_weight": 8.9,
+        "product_price": 322447.0
+    },
+    {
+        "name": "Zohaib Nasir",
+        "product_purchased": "bracelet",
+        "product_weight": 9.8,
+        "product_price": 355054.0
+    },
+    {
+        "name": "Ali Asghar",
+        "product_purchased": "Ring",
+        "product_weight": 4.2,
+        "product_price": 152166.0
+    },
+    {
+        "name": "Ali Mubashir",
+        "product_purchased": "Mens Ring",
+        "product_weight": 8.25,
+        "product_price": 298897.5
+    },
+    {
+        "name": "Asif Ali",
+        "product_purchased": "Bracelet",
+        "product_weight": 13.67,
+        "product_price": 495264.1
+    }
+]

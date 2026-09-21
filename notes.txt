@@ -1,0 +1,5 @@
+Line 1: Order received
+Line 2: Payment confirmed
+Line 3: Printing started
+This is append way to write/edit on file.
+This is append way to write/edit on file.
