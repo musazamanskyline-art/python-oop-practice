@@ -44,3 +44,4 @@ for clients in all_clients:
 #print(isinstance(client4, WordPress_Customers))   # False
 #print(isinstance(client4, Customer))              # True — kyunke WordPress_Customers khud Customer se inherit karta hai
 #client4.show_us
+#Jo tu mere ho to ma kuch nahi mangu khudaa sa, jo tum ho he nai to ma jeena nai chahun duniya ma!!!
